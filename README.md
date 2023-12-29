@@ -25,9 +25,9 @@ The password strength is estimated based on factors such as length, character ty
 
 Clone the repository and run the script. Make sure you have Python installed on your machine.
 
--git clone https://github.com/chrtnjoroge/Password-Generator.git
--cd Password-Generator
--python Password_Generator.py
+git clone https://github.com/chrtnjoroge/Password-Generator.git
+cd Password-Generator
+python Password_Generator.py
 
 
 **Contributions**
