@@ -16,20 +16,26 @@ Welcome to the Password Generator project! This is a simple yet powerful passwor
 3. Copy the generated password using the "Copy the password" button.
 4. View your password history with the "View Password History" button.
 
-**Password Strength**
+## Password Strength
 
 The password strength is estimated based on factors such as length, character types, and the presence of uppercase letters, lowercase letters, digits, and special characters.
 
 
-**Getting Started**
+## Getting Started
 
 Clone the repository and run the script. Make sure you have Python installed on your machine.
 
-git clone https://github.com/chrtnjoroge/Password-Generator.git
-cd Password-Generator
-python Password_Generator.py
+```bash
+git clone https://github.com/chrtnjoroge/password-generator.git
+cd password-generator
+python password_generator.py
+```
 
-
-**Contributions**
+## Contributions
 
 Contributions are welcome! If you find a bug or have a feature request, please open an issue. Feel free to submit pull requests to improve the project.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
